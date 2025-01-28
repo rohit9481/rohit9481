@@ -2,7 +2,11 @@
 <h3 align="center">A passionate developer and open-source contributor</h3>
 
 <p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=rohit9481&label=Profile%20Views&color=0e75b6&style=flat"alt="rohit9481](https://images.app.goo.gl/VxqeCbnFGCP9McTS7)" />
+  <img src="https://github.com/rohit9481.png" width="150" height="150" alt="Rohit Yakkundi">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohit9481&label=Profile%20Views&color=0e75b6&style=flat" alt="rohit9481" />
 </p>
 
 ---
@@ -48,7 +52,7 @@
 
 ### 💻 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,js,mongodb,mysql,git,github,html,css,Selenium,figma,OpenCV,ROS2" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,js,mongodb,mysql,git,github,html,css,figma,opencv,ros" />
 </p>
 
 ---
