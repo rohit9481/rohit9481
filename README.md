@@ -23,7 +23,7 @@
 ### 📊 **GitHub Stats**
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohit9481&show_icons=true&theme=radical" />
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=rohit9481&theme=highcontrast" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=rohit9481&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 ---
