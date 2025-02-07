@@ -23,7 +23,7 @@
 ### 📊 **GitHub Stats**
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohit9481&show_icons=true&theme=radical" />
-  <img width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit9481&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit9481&theme=radical" />
 </p>
 
 ---
