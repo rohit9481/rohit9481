@@ -23,7 +23,7 @@
 <p align="center">
   <img width="38%" src="https://github-readme-stats.vercel.app/api?username=rohit9481&show_icons=true&theme=radical" />
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=rohit9481&theme=dark" alt="GitHub Streak" width="300" />
+    <img src="https://streak-stats.demolab.com?user=rohit9481&theme=dark" alt="GitHub Streak" width="600" />
 </a>
 </p>
 
