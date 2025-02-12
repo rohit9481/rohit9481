@@ -38,7 +38,7 @@
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit9481&repo=ServiceLinker&theme=radical" />
   </a>
   <a href="https://github.com/rohit9481/car-parking-detection-using-openCV">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit9481&repo=car-parking-detection-using-openCV&theme=radical" />
+    <img width="48%" hight="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit9481&repo=car-parking-detection-using-openCV&theme=radical" />
   </a>
    <a href="https://github.com/rohit9481/mentalhealth.com">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit9481&repo=mentalhealth.com&theme=radical" />
