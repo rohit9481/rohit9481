@@ -56,7 +56,7 @@
 
 ### 💻 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,js,mongodb,mysql,git,github,html,css,figma,opencv,ros" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,mongodb,mysql,git,github,html,css,figma,opencv,ros" />
 </p>
 
 ---
