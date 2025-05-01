@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **Exciting Open Source Projects**
 - 🌱 I’m currently learning **Java, AI, Web Dev, Graph Theory**
 - 👯 I’m looking to collaborate on **GSoC & Open Source**
-- 💬 Ask me about **AI, Web Development, Algorithms, python**
+- 💬 Ask me about **AI, Web Development, Algorithms, Java, python**
 - 📫 How to reach me **rohityakkundi6@gmail.com**
 
 ---
