@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋, I'm Rohit Yakkundi</h1>
+<h1 align="center">Hi 👋, I'm Rohit Yakkundi</h1>
 
 <p align="center">
   <img src="https://github.com/rohit9481.png" width="150" height="150" alt="Rohit Yakkundi">
