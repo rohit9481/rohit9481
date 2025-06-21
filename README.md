@@ -33,7 +33,7 @@
 <p align="center">
   
   <a href="https://github.com/rohit9481/TheftAlertDetector-GuardianEye">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit9481&repo=GuardianEye&theme=radical" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit9481&repo=TheftAlertDetector-GuardianEye&theme=radical" />
   </a>
   <a href="https://github.com/rohit9481/ServiceLinker">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit9481&repo=ServiceLinker&theme=radical" />
