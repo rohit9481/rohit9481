@@ -11,7 +11,7 @@
 ---  
 
 ### 🚀 **About Me**
-- 👁️🙋👋**https://rohit9481.github.io/RohitYakkundi/**
+
 - 🔭 I’m currently working on **Exciting Open Source Projects**
 - 🌱 I’m currently learning **Java, AI, Web Dev, Graph Theory**
 - 👯 I’m looking to collaborate on **GSoC & Open Source**
