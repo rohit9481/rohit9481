@@ -12,7 +12,7 @@
 
 ### 🚀 **About Me**
 -  **https://rohityakkundi.netlify.app/**
--  **https://leetcode.com/u/rohit9481/**
+-  Leedcode **https://leetcode.com/u/rohit9481/**
 - 🔭 I’m currently working on **Exciting Open Source Projects**
 - 🌱 I’m currently learning **Java, AI, Web Dev, Graph Theory**
 - 👯 I’m looking to collaborate on **GSoC & Open Source**
