@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohit Yakkundi</h1>
+<img width="595" height="398" alt="image" src="https://github.com/user-attachments/assets/a0d57531-c427-4925-a6a1-3681980d0841" /><h1 align="center">Hi 👋, I'm Rohit Yakkundi</h1>
  
 <p align="center">
   <img src="https://github.com/rohit9481.png" width="150" height="150" alt="Rohit Yakkundi">
@@ -51,32 +51,22 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit9481&show_icons=true&theme=radical" width="480"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohit9481&theme=radical&hide_border=true" width="480"/>
-</p>
+### 🧱 3D GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit9481&theme=redical&hide_border=true" width="820"/>
+  <img src="https://raw.githubusercontent.com/rohit9481/github-readme-3d-contrib/main/profile-night-rainbow.svg" width="820" />
 </p>
+
+### 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rohit9481&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
-### 🏆 GitHub Achievements
+### 🕸️ GitHub Contribution Breakdown
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohit9481&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
-### ➕ Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit9481&theme=tokyo-night&bg_color=000000&color=ff69b4&line=00ffff&point=ff007f&area=true&area_color=ff007f&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/rohit9481/rohit9481/main/github-metrics.svg" width="600"/>
 </p>
 
 ---
