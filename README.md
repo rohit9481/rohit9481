@@ -51,16 +51,18 @@
 </p>
 
 ---
-### 🏆 GitHub Achievements
+## 🚀 My GitHub Universe
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohit9481&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://raw.githubusercontent.com/rohit9481/github-profile-3d-contrib/main/profile-night-rainbow.svg" width="800"/>
 </p>
 
-### ➕ Activity Graph
+<p align="center">
+  <img src="https://github-profile-3d-globe.vercel.app/api/globe?username=rohit9481&theme=dark" width="500"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit9481&theme=tokyo-night&bg_color=000000&color=ff69b4&line=00ffff&point=ff007f&area=true&area_color=ff007f&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/rohit9481/rohit9481/output/github-contribution-grid-snake-dark.svg" width="800"/>
 </p>
 
 
