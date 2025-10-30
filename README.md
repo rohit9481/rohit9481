@@ -63,12 +63,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rohit9481&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
-### 🕸️ GitHub Contribution Breakdown
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohit9481/rohit9481/main/github-metrics.svg" width="600"/>
-</p>
-
 ---
 
 ### 💻 **Tech Stack**
