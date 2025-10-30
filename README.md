@@ -52,10 +52,19 @@
 
 ---
 
-### 📈 Weekly GitHub Activity
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit9481&theme=redical&hide_border=true" width="820" style="border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.15);" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit9481&show_icons=true&theme=radical" width="480"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohit9481&theme=radical&hide_border=true" width="480"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit9481&theme=redical&hide_border=true" width="820"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohit9481&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 
