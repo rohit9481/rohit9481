@@ -52,10 +52,12 @@
 
 ---
 
-### 🌱 **Contribution Graph**
+### 📈 Weekly GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit9481&theme=redical"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit9481&theme=redical&hide_border=true" width="820" style="border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.15);" />
 </p>
+
 
 ---
 
