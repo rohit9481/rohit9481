@@ -1,4 +1,4 @@
-<img width="595" height="398" alt="image" src="https://github.com/user-attachments/assets/a0d57531-c427-4925-a6a1-3681980d0841" /><h1 align="center">Hi 👋, I'm Rohit Yakkundi</h1>
+<h1 align="center">Hi 👋, I'm Rohit Yakkundi</h1>
  
 <p align="center">
   <img src="https://github.com/rohit9481.png" width="150" height="150" alt="Rohit Yakkundi">
