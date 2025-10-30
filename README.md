@@ -45,6 +45,9 @@
    <a href="https://github.com/rohit9481/mentalhealth.com">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit9481&repo=mentalhealth.com&theme=radical" />
   </a>
+  <a href="https://github.com/rohit9481/ClarifyAi.git">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit9481&repo=mentalhealth.com&theme=radical" />
+  </a>
 </p>
 
 ---
