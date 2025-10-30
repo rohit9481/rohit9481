@@ -67,6 +67,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rohit9481&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohit9481&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+### ➕ Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit9481&theme=tokyo-night&bg_color=000000&color=ff69b4&line=00ffff&point=ff007f&area=true&area_color=ff007f&hide_border=true" />
+</p>
 
 ---
 
