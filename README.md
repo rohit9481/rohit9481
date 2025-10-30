@@ -55,22 +55,12 @@
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
 
-<!-- ⚡ 2. Activity Flow Graph (wavy style) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit9481&theme=tokyo-night&area=true&hide_border=false&custom_title=🔥%20Activity%20Flow%20Graph" width="700" alt="Activity Flow Graph"/>
-</p>
-
 <!-- 🕹️ 3. Radar Triangle Graph (like your image) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohit9481&theme=github_dark" width="400" alt="Productive Time Radar"/>
 </p>
 
 
-<!-- 🧩 5. Summary Cards (Repository Insights, Languages, etc.) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohit9481&theme=radical" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohit9481&theme=radical" width="400"/>
-</p>
 
 <!-- 🧩 5. Summary Cards (Repository Insights, Languages, etc.) -->
 <p align="center">
