@@ -54,10 +54,6 @@
 <!-- 🌟 GITHUB STATS & VISUALS SECTION 🌟 -->
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
-<!-- 🧠 1. 3D Contribution Graph -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/profile-night-rainbow.svg" width="700" alt="3D Contribution Graph"/>
-</p>
 
 <!-- ⚡ 2. Activity Flow Graph (wavy style) -->
 <p align="center">
@@ -69,11 +65,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohit9481&theme=github_dark" width="400" alt="Productive Time Radar"/>
 </p>
 
-<!-- 📈 4. Overall GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit9481&show_icons=true&theme=radical&hide_border=false" width="450" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit9481&theme=radical&hide_border=false" width="450" alt="GitHub Streak Stats"/>
-</p>
 
 <!-- 🧩 5. Summary Cards (Repository Insights, Languages, etc.) -->
 <p align="center">
@@ -81,10 +72,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohit9481&theme=radical" width="400"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohit9481&theme=radical" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit9481&theme=radical" width="400"/>
-</p>
 
 <!-- 🪄 6. Extra Aesthetic Graph (3D Glow + Smooth) -->
 <p align="center">
