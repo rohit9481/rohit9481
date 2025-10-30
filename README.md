@@ -72,25 +72,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohit9481&theme=radical" width="400"/>
 </p>
 
-
-#...............
-
-<!-- ⚡ 2. Activity Flow Graph (wavy style) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit9481&theme=tokyo-night&area=true&hide_border=false&custom_title=🔥%20Activity%20Flow%20Graph" width="700" alt="Activity Flow Graph"/>
-</p>
-
-<!-- 🕹️ 3. Radar Triangle Graph (like your image) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohit9481&theme=github_dark" width="400" alt="Productive Time Radar"/>
-</p>
-
-<!-- 📈 4. Overall GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit9481&show_icons=true&theme=radical&hide_border=false" width="450" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit9481&theme=radical&hide_border=false" width="450" alt="GitHub Streak Stats"/>
-</p>
-
 <!-- 🧩 5. Summary Cards (Repository Insights, Languages, etc.) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohit9481&theme=radical" width="400"/>
@@ -98,7 +79,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohit9481&theme=radical" width="400"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit9481&theme=radical" width="400"/>
 </p>
 
